@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "729140587480",
+    "firebase_url": "https://waschen2x.firebaseio.com",
+    "project_id": "waschen2x",
+    "storage_bucket": "waschen2x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729140587480:android:fb0ecab0d1e8a592",
+        "android_client_info": {
+          "package_name": "in.waschen.waschen2x"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729140587480-0lpmhee5thtn0bidjpli71b1ljbh8h4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGHZdqTBEOi5-rLXsv9y7Om4BweYqULKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729140587480-0lpmhee5thtn0bidjpli71b1ljbh8h4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
